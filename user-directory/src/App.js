@@ -1,14 +1,12 @@
 import React from "react";
-import User from './components/User';
-//import UserDirectory from './utils/API';
-//import UserDirectory from './components/Directory';
+import HomePage from "./Page/HomePage";
+import './App.css';
+import Container from "./components/Container";
 
-
-function App() {  
+function App(props) {  
   return (
     <div>
-      <User />
-  {/*<UserDirectory />*/}
+      <HomePage />
     </div>
   );
 }

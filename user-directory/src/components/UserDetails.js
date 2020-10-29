@@ -1,12 +1,9 @@
-import React, { Component } from "react";
-// import UserDirectory from '../utils/API';
-class User extends Component {
-    render() {
+import React from 'react';
+
+class Container extends React.Component {
+    render(props) {
         return (
-            <div className="container">
-                <div className="jumbotron">
-                    <h1>User Directory</h1>
-                </div>
+            <div>
                 <table className="table table-bordered">
                     <thead>
                         <tr>
@@ -25,14 +22,9 @@ class User extends Component {
                         </tr>
                     </thead>
                 </table>
-                <div>
-                    
-                    {/* <UserDirectory />*/}
-                </div>
             </div>
         )
     }
 }
 
-//  use loop or something that can loop the data from api 
-export default User;
+export default Container;
