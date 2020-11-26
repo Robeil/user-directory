@@ -22,7 +22,6 @@ function Nav({ query, onInputChange, onSortChange, currentKey, currentOrder }) {
   return (
     <>
       <Jumbotron>
-        {/*<nav className='navbar navbar-expand-lg navbar-dark bg-primary justify-content-between mb-2'>*/}
           <h1>Employee Directory</h1>
         <button
           className='navbar-toggler'
@@ -35,7 +34,6 @@ function Nav({ query, onInputChange, onSortChange, currentKey, currentOrder }) {
         >
           <span className='navbar-toggler-icon'></span>
         </button>
-        {/*</nav>*/}
      
       <form className='form-inline my-2 my-lg-0'>
         <input

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Nav from "./components/Nav";
+import Nav from "./components/Header";
 import EmployeeDirectory from "./pages/index";
 import API from "./utils/API";
 import sortFunctions from "./utils/sortFunctions";
