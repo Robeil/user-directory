@@ -1,0 +1,8 @@
+.employeeCard, .card {
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 25px;
+  min-width: 20em;
+  max-width: 20em;
+  box-shadow: 10px 10px 5px rgb(196, 223, 153);
+}
