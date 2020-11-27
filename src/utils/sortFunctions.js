@@ -1,5 +1,5 @@
 const sortFunctions = {
-  // To be used with a sort function: Ex. singers.sort(compareValues('band', 'desc'));
+  // To be used with a sort function:
    compareValues: function(key, order = 'asc') {
     return function innerSort(a, b) {
       if (!a.hasOwnProperty(key) || !b.hasOwnProperty(key)) {

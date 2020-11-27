@@ -1,8 +1,8 @@
 .employeeCard, .card {
-  border: 2px solid red;
+  border: 1px solid lightblue;
   padding: 10px;
-  border-radius: 25px;
-  min-width: 20em;
-  max-width: 20em;
-  box-shadow: 10px 10px 5px rgb(196, 223, 153);
+  border-radius: 15px;
+  min-width: 14em;
+  max-width: 15em;
+  box-shadow: 10px 10px 5px rgb(186, 230, 233);
 }

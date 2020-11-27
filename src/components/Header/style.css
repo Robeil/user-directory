@@ -1,11 +1,13 @@
-/* .navTitle {
- color: orangered !important;
- margin-right: 2.9em;
- font-size: x-large;
-} */
-.form-inline {
-   float: right;
+h1 {
+   justify-self: center;
 }
-/* .Jumbotron {
-   border-bottom: 5px solid brown;
-} */
+.title {
+font-size: xx-large;
+text-align: center;
+}
+.Jumbotron {
+  padding: 15px !important;
+}
+.header {
+   background-color: rgb(216, 238, 238) !important;
+}
