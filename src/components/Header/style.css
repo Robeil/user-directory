@@ -2,12 +2,17 @@ h1 {
    justify-self: center;
 }
 .title {
-font-size: xx-large;
+font-size: xxx-large;
 text-align: center;
 }
 .Jumbotron {
   padding: 15px !important;
+background-color: cadetblue !important;
 }
 .header {
    background-color: rgb(216, 238, 238) !important;
+}
+.jum {
+     font-family: 'Carter One', cursive !important;
+     text-shadow: 2px 2px #FF0000;
 }

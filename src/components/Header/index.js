@@ -20,7 +20,7 @@ function Nav({ query, onInputChange, onSortChange, currentKey, currentOrder }) {
 
   return (
     <>
-      <Jumbotron className='navbar navbar-expand-lg navbar-dark bg-primary justify-content-between mb-0 mx-auto' style={{padding: '15px'}}>
+      <Jumbotron className='navbar jum navbar-expand-lg navbar-dark bg-primary justify-content-between mb-0 mx-auto' style={{padding: '15px'}}>
         <a className='navbar-brand bg-primary title mx-auto' href='/'>
         Employee Directory
       </a>
