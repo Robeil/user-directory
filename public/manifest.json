@@ -2,7 +2,5 @@
   "short_name": "Employee Directory",
   "name": "Employee Directory - Search Employee Details",
   "start_url": "https://www.github.com/Robeil/user-directory/",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "display": "standalone"
 }
