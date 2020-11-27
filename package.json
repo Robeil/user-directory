@@ -2,9 +2,9 @@
   "name": "user-directory",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://www.Robeil.com/user-directory/",
+  "homepage": "https://github.com/Robeil/user-directory.git",
   "repository": {
-    "url": "https://github.com/Robeil/user-directory"
+    "url": "https://github.com/Robeil/user-directory.git"
   },
   "author": {
     "name": "Robeil Aregawi",
