@@ -35,5 +35,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * ![IpadPro](https://user-images.githubusercontent.com/65261399/100553955-41ebbd00-3246-11eb-9cc9-6251bd1d7145.png)
 
 * iphone x view
-* ![iphonex](https://user-images.githubusercontent.com/65261399/100553968-54fe8d00-3246-11eb-8a3a-5ce2403d2ab7.png)
+* ![Screen-11-29-2020_21029_PM (2)](https://user-images.githubusercontent.com/65261399/100554901-fab4fa80-324c-11eb-8ae3-e3b57f95d8f6.png)
+
 
