@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Robeil/user-directory/static/css/main.6bde233c.chunk.css",
-    "main.js": "/Robeil/user-directory/static/js/main.07c020f0.chunk.js",
-    "main.js.map": "/Robeil/user-directory/static/js/main.07c020f0.chunk.js.map",
-    "runtime-main.js": "/Robeil/user-directory/static/js/runtime-main.6b60c7e5.js",
-    "runtime-main.js.map": "/Robeil/user-directory/static/js/runtime-main.6b60c7e5.js.map",
-    "static/js/2.30e3b4a5.chunk.js": "/Robeil/user-directory/static/js/2.30e3b4a5.chunk.js",
-    "static/js/2.30e3b4a5.chunk.js.map": "/Robeil/user-directory/static/js/2.30e3b4a5.chunk.js.map",
-    "index.html": "/Robeil/user-directory/index.html",
-    "static/css/main.6bde233c.chunk.css.map": "/Robeil/user-directory/static/css/main.6bde233c.chunk.css.map",
-    "static/js/2.30e3b4a5.chunk.js.LICENSE.txt": "/Robeil/user-directory/static/js/2.30e3b4a5.chunk.js.LICENSE.txt"
+    "main.css": "/user-directory/static/css/main.6bde233c.chunk.css",
+    "main.js": "/user-directory/static/js/main.07c020f0.chunk.js",
+    "main.js.map": "/user-directory/static/js/main.07c020f0.chunk.js.map",
+    "runtime-main.js": "/user-directory/static/js/runtime-main.4e3b6876.js",
+    "runtime-main.js.map": "/user-directory/static/js/runtime-main.4e3b6876.js.map",
+    "static/js/2.30e3b4a5.chunk.js": "/user-directory/static/js/2.30e3b4a5.chunk.js",
+    "static/js/2.30e3b4a5.chunk.js.map": "/user-directory/static/js/2.30e3b4a5.chunk.js.map",
+    "index.html": "/user-directory/index.html",
+    "static/css/main.6bde233c.chunk.css.map": "/user-directory/static/css/main.6bde233c.chunk.css.map",
+    "static/js/2.30e3b4a5.chunk.js.LICENSE.txt": "/user-directory/static/js/2.30e3b4a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b60c7e5.js",
+    "static/js/runtime-main.4e3b6876.js",
     "static/js/2.30e3b4a5.chunk.js",
     "static/css/main.6bde233c.chunk.css",
     "static/js/main.07c020f0.chunk.js"
